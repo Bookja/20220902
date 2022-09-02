@@ -11,7 +11,7 @@ public class Customer {
 
 		
 		
-		 System.out.println("ÀÓÈ«Á¦"); 
+		 System.out.println("ì•ˆë…•í•˜ì„¸ìš”"); 
 	}
 
 }
